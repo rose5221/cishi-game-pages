@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="2" y="2" width="60" height="60" rx="5" fill="#080807" stroke="#c9a865" stroke-width="2"/>
+  <path d="M12 16h40M12 48h40" stroke="#c9a865" stroke-width="1" opacity=".45"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Songti SC, STSong, serif" font-size="34" fill="#e8dfcc">世</text>
+</svg>

@@ -1,0 +1,1 @@
+var e=`https://cishi-game.onrender.com`.replace(/\/+$/,``),t=typeof window<`u`&&window.location.protocol===`file:`?`http://localhost:3001/api`:e?`${e}/api`:`/api`,n=typeof window<`u`&&window.location.protocol===`file:`?`http://localhost:3001`:e;export{n,t};

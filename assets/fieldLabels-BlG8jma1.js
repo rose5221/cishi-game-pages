@@ -1,0 +1,1 @@
+var e=new Set([`type`,`aliases`,`alias`,`appearance`,`disposition`,`personality`,`wears`,`voice`,`carries`,`goals`,`geography`,`status`,`date`,`stance`,`key members`]);function t(t){return e.has(t.trim().toLowerCase())}export{t};
